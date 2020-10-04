@@ -1,2 +1,1 @@
-# vault
-Secrets Manager
+# nginx ingress controller
